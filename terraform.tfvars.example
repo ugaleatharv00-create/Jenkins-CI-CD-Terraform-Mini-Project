@@ -1,0 +1,3 @@
+image_tag     = "latest"
+external_port = 8081
+environment   = "dev"
